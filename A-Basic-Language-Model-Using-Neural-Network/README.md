@@ -29,6 +29,7 @@ The next step toward more intelligent text generation is transitioning to Deep L
 Feedforward Neural Networks (FFNN)
 Recurrent Neural Networks (RNNs) & LSTMs
 Transformer-based architectures (GPT, BERT, etc.)
+N-Grams with Tetra-Grams and Penta-Grams
 
 
 
