@@ -75,6 +75,11 @@ This project walks you through the evolution of text generation, from traditiona
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
+If you found this helpful, feel free to ⭐ the repository and connect with me on:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/faizan-saleem-siddiqui-4411bb247/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/FaizanSSDQ/NLP-and-LLMs-With-Python.git)  
+
+
 ## License
 
 [Add your license here, e.g., MIT License]
