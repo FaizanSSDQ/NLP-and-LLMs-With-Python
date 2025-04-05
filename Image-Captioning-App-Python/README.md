@@ -65,8 +65,16 @@ The BLIP (Bootstrapped Language-Image Pre-training) model is a state-of-the-art 
   * PIL (Python Imaging Library)
 
 
+## Get Accelerated
+
+If you found this helpful, feel free to ⭐ the repository and connect with me on:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/faizan-saleem-siddiqui-4411bb247/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/FaizanSSDQ/NLP-and-LLMs-With-Python.git)  
+
 ## License
 This project is licensed under the MIT License - see the  file for details.
+
+
 
 
 
