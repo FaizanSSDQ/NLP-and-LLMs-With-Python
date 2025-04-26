@@ -13,6 +13,7 @@ The Project hereafter refered to as BlenderBot Chatbot is a conversational AI ap
 
 
 
+
  * **How it does it:** Utilizes the Hugging Face Transformers library to load the BlenderBot model and tokenizer, processes user inputs with proper tokenization and history management, generates responses using beam search, and serves the web interface through Flask with HTML/CSS for styling.
 
 ## Technologies
